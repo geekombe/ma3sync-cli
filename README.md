@@ -80,8 +80,7 @@ The project's `.gitignore` file is configured to exclude SQLite database files (
 @2024 Victor Njogu (geekombe) - Copyright
 ---
 
-<c>@geekombe</c>
 
-# contact Information:
+### contact Information:
 - Phone - 254700919007
 - eMail - victorgekombe@gmail.com
