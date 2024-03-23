@@ -19,6 +19,10 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Installation
 
+   Follow the video or Instructions below
+
+   https://drive.google.com/file/d/108BgBuhTJ2ni3o50NBjcZEu2XF-B_QsF/view?usp=sharing
+
 1. **Clone the Repository**
 
    First, clone the repository to your local machine:
